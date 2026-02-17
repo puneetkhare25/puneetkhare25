@@ -20,7 +20,7 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
 <div align="center">
   <a href="https://www.linkedin.com/in/puneet-khare/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
   <a href="https://discord.com/users/1039479639015444500" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>  &nbsp;&nbsp;
-  <a href="puneetkhare25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="mailto:puneetkhare25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
   <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a> &nbsp;&nbsp;
 </div>
 
