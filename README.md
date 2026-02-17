@@ -34,6 +34,7 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
   <tr>
     <td valign="top" width="33%">
       <h3 align="center">Programming Languages</h3>
+      <br>
       <div align="center">  
         <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
@@ -42,9 +43,11 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
         <a href="https://rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>&nbsp;
         <a href="https://www.soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
       </div>
+      <br>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
+      <br>
       <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>&nbsp;
@@ -53,22 +56,25 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
         <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>&nbsp;
         <a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" /></a>
       </div>
+      <br>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Backend</h3>
+      <br>
       <div align="center">
         <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>&nbsp;
         <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>&nbsp;
         <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL API" /></a>&nbsp;
         <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/-REST%20API-00A8E8?style=for-the-badge&logo=api&logoColor=white" alt="REST API" /></a>&nbsp;
         <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>&nbsp;
-        <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>
       </div>
+      <br>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
       <h3 align="center">DevOps & Tools</h3>
+      <br>
       <div align="center">
         <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>&nbsp;
         <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
@@ -76,24 +82,29 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
         <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
         <a href="https://www.cloudflare.com/en-in/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" /></a>
       </div>
+      <br>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Databases</h3>
+      <br>
       <div align="center">
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>&nbsp;
         <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>&nbsp;
         <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis DB" /></a>&nbsp;
-        <a href="https://sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
       </div>
+      <br>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Other Tools</h3>
+      <h3 align="center">Other Tools</u></h3>
+      <br>
       <div align="center">
         <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>&nbsp;
         <a href="https://en.wikipedia.org/wiki/Web3" target="_blank"><img src="https://img.shields.io/badge/Web3-f7aa04?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3" /></a>&nbsp;
         <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank"><img src="https://img.shields.io/badge/Blockchain-5A31F4?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain" /></a>&nbsp;
         <a href="adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /></a>
       </div>
+      <br>
     </td>
   </tr>
 </table>
@@ -105,9 +116,6 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
 <br> <br>
 
 <div align="center">
-  <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>&nbsp;
-  <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /></a>&nbsp;
-  <a href="https://nodemon.io/" target="_blank"><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" /></a>&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>&nbsp;
   <a href="https://hibernate.org/" target="_blank"><img src="https://img.shields.io/badge/Hibernate-5A5539?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" /></a>&nbsp;
   <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" /></a>&nbsp;
