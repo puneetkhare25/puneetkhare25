@@ -7,9 +7,9 @@
 # 🔴 About Me :-
 <br> 
 
-<p>Hi, I'm Puneet Khare a full-stack developer specializing in the MERN Stack, with a strong focus on building scalable, real-world applications and writing efficient, optimized code. I am actively strengthening my problem-solving abilities through Data Structures and Algorithms in Java.
+<p>Hi, I'm Puneet Khare a full-stack developer using Next.Js, with a strong focus on building scalable, real-world applications and writing efficient, optimized code. I am actively strengthening my problem-solving abilities through Data Structures and Algorithms in Java.
 
-My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Rust, and Solidity, with a keen interest in Web3 and Blockchain technologies and how decentralized systems can redefine modern digital ecosystems. Complementing my development skills, I have a creative background in graphic design, leveraging Adobe Photoshop to design intuitive user interfaces and compelling visual assets. I am driven by continuous learning, collaboration, and innovation, and I actively seek opportunities to contribute to open-source initiatives and impactful projects alongside like-minded individuals.
+My technical expertise includes Java, HTML, CSS, JavaScript, TypeScript, Rust, and Solidity, with a keen interest in Web3 and Blockchain technologies and how decentralized systems can redefine modern digital ecosystems. Complementing my development skills, I have a creative background in graphic design, leveraging Adobe Photoshop to design intuitive graphics. I am driven by continuous learning, collaboration, and innovation, and I actively seek opportunities to contribute to open-source initiatives and impactful projects alongside like-minded individuals.
 </p>
 
 <br>
