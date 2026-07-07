@@ -117,13 +117,9 @@ My technical expertise includes C++, Java, HTML, CSS, JavaScript, TypeScript, Ru
 
 <div align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>&nbsp;
-  <a href="https://hibernate.org/" target="_blank"><img src="https://img.shields.io/badge/Hibernate-5A5539?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" /></a>&nbsp;
   <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" /></a>&nbsp;
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>&nbsp;
-  <a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" /></a>&nbsp;
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>&nbsp;
-  <a href="https://cursor.com/" target="_blank"><img src="https://img.shields.io/badge/Cursor%20AI-333333?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Ai" /></a>&nbsp;
   <a href="https://replit.com/" target="_blank"><img src="https://img.shields.io/badge/Replit-EA5C0C?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>&nbsp;
   <a href="https://www.notion.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
 </div>
