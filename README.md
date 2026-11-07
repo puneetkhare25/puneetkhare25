@@ -7,9 +7,11 @@
 # 🔴 About Me :-
 <br> 
 
-<p>Hi, I'm Puneet Khare a full-stack developer using Next.Js, with a strong focus on building scalable, real-world applications and writing efficient, optimized code. I am actively strengthening my problem-solving abilities through Data Structures and Algorithms in Java.
+<p>Hi, I'm <b>Puneet Khare</b>, a Full-Stack Developer specializing in <b>Next.js</b>, focused on building scalable, efficient, and user-centric applications. I'm passionate about <b>Data Structures and Algorithms (DSA) in Java</b>, with an emphasis on problem-solving and writing optimized code.
 
-My technical expertise includes Java, HTML, CSS, JavaScript, TypeScript, Rust, and Solidity, with a keen interest in Web3 and Blockchain technologies and how decentralized systems can redefine modern digital ecosystems. Complementing my development skills, I have a creative background in graphic design, leveraging Adobe Photoshop to design intuitive graphics. I am driven by continuous learning, collaboration, and innovation, and I actively seek opportunities to contribute to open-source initiatives and impactful projects alongside like-minded individuals.
+My technical interests include **Web3, Blockchain, and Smart Contract Development**, alongside exploring modern software architectures. I also have a creative side, with an interest in **Graphic Design using Adobe Photoshop**.
+
+I'm always eager to learn, collaborate, contribute to open-source projects, and build innovative solutions to real-world problems.
 </p>
 
 <br>
