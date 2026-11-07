@@ -5,7 +5,7 @@
 <br>
 
 # 🔴 About Me :-
-<br> 
+<br> <br> 
 
 <p>Hi, I'm <b>Puneet Khare</b>, a Full-Stack Developer specializing in <b>Next.js</b>, focused on building scalable, efficient, and user-centric applications. I'm passionate about <b>Data Structures and Algorithms (DSA) in Java</b>, with an emphasis on problem-solving and writing optimized code.
 
